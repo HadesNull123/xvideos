@@ -6,4 +6,4 @@
 
 -python app.py
 
-- HadesNull
+# HadesNull - Kimochi
